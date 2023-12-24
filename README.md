@@ -25,6 +25,6 @@ Welcome to the Tic-Tac-Toe Game! This simple console-based game allows two playe
 To play the game, compile and run the provided C++ code on a compatible environment. Make sure you have a C++ compiler installed.
 
 ```bash
-## bash
+
 g++ tic_tac_toe.cpp -o tic_tac_toe
 ./tic_tac_toe
