@@ -5,8 +5,13 @@
 
 using namespace std;
 
+// Globally allocating a 2D array for the Board.
 char display[3][3] = {{'1', '2', '3'}, {'4', '5', '6'}, {'7', '8', '9'}};
+
+// Globally declaring the status of the game
 string status = "On going";
+
+// Globally declaring the score of both the players
 int score_person_1 = 0;
 int score_person_2 = 0;
 
