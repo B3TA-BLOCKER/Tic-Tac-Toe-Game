@@ -20,10 +20,29 @@ Welcome to the Tic-Tac-Toe Game! 🚀 This simple console-based game allows two 
 - The first player to form a horizontal, vertical, or diagonal line with their symbol wins.
 - The game ends in a draw if no player achieves victory.
 
-## How to Run
+## 🚀 Clone and Use Tic-Tac-Toe Game
 
-To play the game, compile and run the provided C++ code on a compatible environment. Make sure you have a C++ compiler installed.
 
-```bash
-g++ tic_tac_toe.cpp -o tic_tac_toe
-./tic_tac_toe
+   * Step 1: Clone the Repository
+        
+        Open your terminal and run the following command to clone the repository:
+        ```bash
+        git clone https://github.com/your_username/tic-tac-toe.git
+        ```
+   * Step 2: Navigate to the Project Directory
+       ```bash
+       cd tic-tac-toe
+       ```
+   * Step 3: Compile the Source Code
+       ```bash
+       ./tic_tac_toe
+       ```
+       
+   
+
+
+
+
+
+
+
