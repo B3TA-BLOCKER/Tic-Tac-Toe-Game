@@ -1,6 +1,6 @@
-# Tic-Tac-Toe Game
+# 🎮 Tic-Tac-Toe Game
 
-Welcome to the Tic-Tac-Toe Game! This simple console-based game allows two players to engage in the classic tic-tac-toe challenge. The game keeps track of each player's score and announces the winner or declares a draw after each round.
+Welcome to the Tic-Tac-Toe Game! 🚀 This simple console-based game allows two players to engage in the classic tic-tac-toe challenge. The game keeps track of each player's score and announces the winner or declares a draw after each round.
 
 ## How to Play
 
@@ -10,12 +10,12 @@ Welcome to the Tic-Tac-Toe Game! This simple console-based game allows two playe
 4. The game checks for a winner or a draw after each move.
 5. The winner or draw is announced, and players have the option to play again.
 
-## Game Controls
+## 🎮 Game Controls
 
 - Use the numbers 1 to 9 to place your symbol on the corresponding position on the board.
-- Follow on-screen instructions during your turn.
+- Follow on-screen instructions during your turn. 🎲
 
-## Game Rules
+## 📜 Game Rules
 
 - The first player to form a horizontal, vertical, or diagonal line with their symbol wins.
 - The game ends in a draw if no player achieves victory.
@@ -25,6 +25,5 @@ Welcome to the Tic-Tac-Toe Game! This simple console-based game allows two playe
 To play the game, compile and run the provided C++ code on a compatible environment. Make sure you have a C++ compiler installed.
 
 ```bash
-
 g++ tic_tac_toe.cpp -o tic_tac_toe
 ./tic_tac_toe
