@@ -27,15 +27,15 @@ Welcome to the Tic-Tac-Toe Game! 🚀 This simple console-based game allows two 
         
         Open your terminal and run the following command to clone the repository:
         ```bash
-        git clone https://github.com/your_username/tic-tac-toe.git
+        git clone https://github.com/B3TA-BLOCKER/Tic-Tac-Toe-Game.git
         ```
    * Step 2: Navigate to the Project Directory
        ```bash
-       cd tic-tac-toe
+       cd Tic-Tac-Toe-Game
        ```
    * Step 3: Compile the Source Code
        ```bash
-       ./tic_tac_toe
+       ./Tic-Tac-Toe-Game
        ```
        
    
