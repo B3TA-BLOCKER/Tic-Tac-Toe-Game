@@ -31,11 +31,15 @@ Welcome to the Tic-Tac-Toe Game! 🚀 This simple console-based game allows two 
         git clone https://github.com/B3TA-BLOCKER/Tic-Tac-Toe-Game.git
         ```
 
-   * Step 2: Compile the Source Code
+   * Step 2: Navigate to the Project folder
+     ```bash
+     cd Tic-Tac-Toe-Game
+     ```
+
+   * Step 3: Compile the Source Code
        ```bash
        ./Tic_tac_toe_PROJECT.cpp
        ```
-       
    
 
 
