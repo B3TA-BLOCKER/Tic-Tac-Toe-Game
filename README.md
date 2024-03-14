@@ -38,8 +38,13 @@ Welcome to the Tic-Tac-Toe Game! 🚀 This simple console-based game allows two 
 
    * Step 3: Compile the Source Code
        ```bash
-       ./main.cpp
+       g++ main.cpp -o main
        ```
+
+  * Step 4: Execute the program
+    ```bash
+    ./main
+    ``` 
    
 
 
