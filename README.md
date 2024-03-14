@@ -38,7 +38,7 @@ Welcome to the Tic-Tac-Toe Game! 🚀 This simple console-based game allows two 
 
    * Step 3: Compile the Source Code
        ```bash
-       ./Tic_tac_toe_PROJECT.cpp
+       ./main.cpp
        ```
    
 
