@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cstdlib> /* for using the exit(0) fuction */
+#include <cstdlib> 
 #include <string>
 #include<conio.h>
 
