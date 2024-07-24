@@ -92,7 +92,7 @@ graph TD;
 ```
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=41&pause=1000&color=DA70D6&width=800&height=60&lines=Enjoy+the+game&center=true&vCenter=true)
+
 
 
 
