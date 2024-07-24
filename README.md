@@ -1,6 +1,7 @@
-# 🎮 Tic-Tac-Toe Game
-
-Welcome to the **Tic-Tac-Toe Game**! 🚀 Challenge a friend in this classic console-based game and see who can claim victory or force a draw. Keep track of your scores and have endless fun!
+<div align="center">
+  <h1>🎮 Tic-Tac-Toe Game</h1>
+  <p><strong>Welcome to the <strong>Tic-Tac-Toe Game</strong>! 🚀 Challenge a friend in this classic console-based game and see who can claim victory or force a draw. Keep track of your scores and have endless fun!</strong></p>
+</div>
 
 ## 🌟 Features
 - Two-player gameplay
